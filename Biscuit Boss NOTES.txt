@@ -1,0 +1,20 @@
+Biscuit Boss
+
+mastermind style
+decorate a biscuit to match the customers preference (not known, get feedback each guess)
+
+biscuit attributes
+
+base shape (circle/square etc)
+base flavour (choclate, vanilla, etc)
+icing flavour (chocolate vanilla etc)
+topping style (star etc)
+
+
+
+
+6 VARIATIONS OF EACH ATTRIBUTE
+AND
+10 MAX GUESSES
+
+
